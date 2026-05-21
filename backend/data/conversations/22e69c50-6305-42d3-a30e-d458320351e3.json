@@ -1,0 +1,59 @@
+{
+  "conversation_id": "22e69c50-6305-42d3-a30e-d458320351e3",
+  "model_id": "classic_350",
+  "created_at": "2026-05-18T18:45:31.961765+00:00",
+  "last_active": "2026-05-18T18:50:14.938146+00:00",
+  "summary": null,
+  "messages": [
+    {
+      "role": "user",
+      "content": "My bike won't start in the morning, what should I check?",
+      "timestamp": "2026-05-18T18:45:48.550918+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I found something partially related in your manual — here's what it says:\n\n1. Ensure the Ignition/Engine stop switch is in the ON position. (source: Classic350_Owners_Manual.pdf, page: 39)\n2. Check if there is very low or no fuel in the fuel tank. If so, turn the fuel tap to the reserve position or fill fuel. (source: Classic350_Owners_Manual.pdf, page: 39)\n3. Check if the battery is weak or discharged. If so, replace the battery. (source: Classic350_Owners_Manual.pdf, page: 39)\n4. If the engine is cranking but not starting, ensure the spark plug cap/wire is connected. (source: Classic350_Owners_Manual.pdf, page: 39)\n5. Use the choke if required in cold climatic conditions (below 20°C). (source: Classic350_Owners_Manual.pdf, page: 20)\n\nIf these checks don't resolve the issue, it might be best to visit your nearest Royal Enfield service centre or call RE Support at 1800-210-0007.",
+      "timestamp": "2026-05-18T18:45:48.552680+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Which is better, Classic 350 or Honda CB350?",
+      "timestamp": "2026-05-18T18:46:26.458153+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm specifically built to help you troubleshoot your Classic 350. For that query, I'd suggest checking RE's website at royalenfield.com or communities like xBhp or Team-BHP — they'd have great insights!",
+      "timestamp": "2026-05-18T18:46:26.459196+00:00"
+    },
+    {
+      "role": "user",
+      "content": "do you think I should buy Maruti Brezza?",
+      "timestamp": "2026-05-18T18:46:43.656263+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm specifically built to help you troubleshoot your Classic 350. For that query, I'd suggest checking RE's website at royalenfield.com or communities like xBhp or Team-BHP — they'd have great insights!",
+      "timestamp": "2026-05-18T18:46:43.658008+00:00"
+    },
+    {
+      "role": "user",
+      "content": "What if the battery is fine but it still won't start?",
+      "timestamp": "2026-05-18T18:47:06.462484+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I found something partially related in your manual — here's what it says:\n\n1. Ensure the Ignition/Engine stop switch is in the ON position. (source: Classic350_Owners_Manual.pdf, page: 39)\n2. Check if there is very low or no fuel in the fuel tank. If so, turn the fuel tap to the reserve position or fill fuel. (source: Classic350_Owners_Manual.pdf, page: 39)\n3. If the engine is cranking but not starting, ensure the spark plug cap/wire is connected. (source: Classic350_Owners_Manual.pdf, page: 39)\n4. Use the choke if required in cold climatic conditions (below 20°C). (source: Classic350_Owners_Manual.pdf, page: 20)\n\nIf these checks don't resolve the issue, it might be best to visit your nearest Royal Enfield service centre or call RE Support at 1800-210-0007.",
+      "timestamp": "2026-05-18T18:47:06.465509+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Hi there, can you hear me?",
+      "timestamp": "2026-05-18T18:50:14.936026+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm specifically built to help you troubleshoot your Classic 350. For that query, I'd suggest checking RE's website at royalenfield.com or communities like xBhp or Team-BHP — they'd have great insights!",
+      "timestamp": "2026-05-18T18:50:14.938133+00:00"
+    }
+  ]
+}

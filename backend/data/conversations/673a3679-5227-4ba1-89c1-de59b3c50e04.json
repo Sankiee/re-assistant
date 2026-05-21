@@ -1,0 +1,39 @@
+{
+  "conversation_id": "673a3679-5227-4ba1-89c1-de59b3c50e04",
+  "model_id": "classic_350",
+  "created_at": "2026-05-18T19:05:15.802790+00:00",
+  "last_active": "2026-05-18T19:06:17.604612+00:00",
+  "summary": null,
+  "messages": [
+    {
+      "role": "user",
+      "content": "My bike won't start in the morning. Can you tell me what the issue can be?",
+      "timestamp": "2026-05-18T19:05:40.886254+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I found some information in your Classic 350 manual that might help. Here are a few basic checks you can perform if your motorcycle is not starting:\n\n1. **Ignition/Engine stop switch**: Ensure the switch is in the ON position. (source: Classic350_Owners_Manual.pdf, page: 39)\n\n2. **Fuel level**: Check if there is very low or no fuel in the fuel tank. If so, turn the fuel tap to the reserve position or fill the tank with fuel. (source: Classic350_Owners_Manual.pdf, page: 39)\n\n3. **Battery**: If the lights or horn are very dim, it might indicate a weak or discharged battery. Consider replacing the battery if necessary. (source: Classic350_Owners_Manual.pdf, page: 39)\n\n4. **Fuse**: If electricals are not working, check if a fuse is blown and replace the appropriate fuse. If the fuse blows again, contact an Authorised Service Center. (source: Classic350_Owners_Manual.pdf, page: 39)\n\n5. **Spark plug**: If the engine is cranking but not starting, check if the spark plug cap or wire is disconnected and reconnect if needed. (source: Classic350_Owners_Manual.pdf, page: 39)\n\n6. **Choke**: Use the choke if required in cold climatic conditions (below 20°C). (source: Classic350_Owners_Manual.pdf, page: 20)\n\nIf the problem persists after these checks, it is recommended to visit your nearest Royal Enfield service centre or call RE Support at 1800-210-0007.",
+      "timestamp": "2026-05-18T19:05:40.887915+00:00"
+    },
+    {
+      "role": "user",
+      "content": "hi there",
+      "timestamp": "2026-05-18T19:06:10.710195+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey! I'm your Royal Enfield Classic 350 assistant. Ask me anything about your bike — starting issues, maintenance, warning lights, strange sounds — I'm here to help!",
+      "timestamp": "2026-05-18T19:06:10.711144+00:00"
+    },
+    {
+      "role": "user",
+      "content": "how are you",
+      "timestamp": "2026-05-18T19:06:17.603065+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey! I'm your Royal Enfield Classic 350 assistant. Ask me anything about your bike — starting issues, maintenance, warning lights, strange sounds — I'm here to help!",
+      "timestamp": "2026-05-18T19:06:17.604603+00:00"
+    }
+  ]
+}

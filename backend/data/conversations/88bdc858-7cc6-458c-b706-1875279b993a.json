@@ -1,0 +1,34 @@
+{
+  "conversation_id": "88bdc858-7cc6-458c-b706-1875279b993a",
+  "model_id": "meteor_350",
+  "created_at": "2026-05-19T16:31:38.612360+00:00",
+  "last_active": "2026-05-19T16:33:25.310782+00:00",
+  "summary": "The user reported that their Royal Enfield Meteor 350 felt unusual, was making a weird noise when accelerating, and was shaking more than usual. The assistant diagnosed potential issues such as incorrect tyre pressure, loose handlebar or engine mountings, suspension problems, wheel misalignment, and possible engine or silencer mounting issues. Solutions discussed included checking and adjusting tyre pressure, tightening or replacing loose parts, and checking oil levels. Due to the noise and vibrations, the assistant advised the user to stop riding immediately and contact Royal Enfield Roadside Assistance for professional help.",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "⚠️ Based on the symptoms you've described — stop riding immediately.\n\nContinuing to ride with these symptoms risks serious engine damage or complete engine seizure.\n\nWhat to do right now:\n1. Pull over safely and turn off the engine\n2. Do not restart the motorcycle\n3. Call RE Roadside Assistance: 1800-210-0007\n4. If safe to do so, check the oil level using the sight glass\n\nThis is consistent with Royal Enfield's guidance to immediately stop and seek professional help when warning lights appear alongside abnormal sounds or leaks.",
+      "timestamp": "2026-05-19T16:32:57.944371+00:00"
+    },
+    {
+      "role": "user",
+      "content": "it looks yellowish orange, like an engine symbol maybe?",
+      "timestamp": "2026-05-19T16:33:10.760364+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "⚠️ Based on the symptoms you've described — stop riding immediately.\n\nContinuing to ride with these symptoms risks serious engine damage or complete engine seizure.\n\nWhat to do right now:\n1. Pull over safely and turn off the engine\n2. Do not restart the motorcycle\n3. Call RE Roadside Assistance: 1800-210-0007\n4. If safe to do so, check the oil level using the sight glass\n\nThis is consistent with Royal Enfield's guidance to immediately stop and seek professional help when warning lights appear alongside abnormal sounds or leaks.",
+      "timestamp": "2026-05-19T16:33:10.762223+00:00"
+    },
+    {
+      "role": "user",
+      "content": "okay so should I just park it here and call someone or can I ride it home, it's only 3km",
+      "timestamp": "2026-05-19T16:33:23.692522+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "⚠️ Based on the symptoms you've described — stop riding immediately.\n\nContinuing to ride with these symptoms risks serious engine damage or complete engine seizure.\n\nWhat to do right now:\n1. Pull over safely and turn off the engine\n2. Do not restart the motorcycle\n3. Call RE Roadside Assistance: 1800-210-0007\n4. If safe to do so, check the oil level using the sight glass\n\nThis is consistent with Royal Enfield's guidance to immediately stop and seek professional help when warning lights appear alongside abnormal sounds or leaks.",
+      "timestamp": "2026-05-19T16:33:25.310753+00:00"
+    }
+  ]
+}

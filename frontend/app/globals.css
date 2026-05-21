@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 10 10 12;
+  --surface: 22 22 26;
+  --surface-elevated: 32 32 38;
+  --border: 48 48 56;
+  --foreground: 240 240 235;
+  --foreground-muted: 160 160 155;
+  --accent: 200 16 46;
+  --accent-hover: 220 30 60;
+}
+
+html,
+body {
+  background: rgb(var(--background));
+  color: rgb(var(--foreground));
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: rgba(200, 16, 46, 0.35);
+  color: rgb(var(--foreground));
+}
+
+/* Scrollbar polish for dark theme */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(var(--border));
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(var(--foreground-muted));
+}
+
+/* Auto-resize textarea helper */
+.input-textarea {
+  field-sizing: content;
+}
