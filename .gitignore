@@ -14,8 +14,6 @@ venv/
 .ruff_cache/
 
 # Vector store
-backend/vectorstore/
-!backend/vectorstore/.gitkeep
 
 # Node / Next.js
 node_modules/
